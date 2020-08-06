@@ -1,7 +1,7 @@
 def prime?(i)
   def prime?(i)
 
-     start = 2
+start = 2
 		 
 		 if i > 1
 		 
