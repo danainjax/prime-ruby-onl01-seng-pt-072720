@@ -1,5 +1,4 @@
 def prime?(i)
-  def prime?(i)
 
 start = 2
 		 
@@ -10,7 +9,5 @@ start = 2
 		 i % num_to_test == 0
 end
      else false
-		 
-  end
 end
  
