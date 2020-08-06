@@ -7,7 +7,7 @@ start = 2
 	range.none? do |num_to_test|
 		 i % num_to_test == 0
 end
-     else false
+    else false
 end
 end
  
